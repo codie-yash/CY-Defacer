@@ -4,7 +4,7 @@
 AOXdeface is a tool for defacing dozens or hundreds of sites at once,depending on the number
 of sites that have been determined by you, this is not dangerous, and this is only the file upload method<br>
 
-![logo](image.jpg)
+![logo](image.)
 
 **how to install and usage:**
 
@@ -16,10 +16,10 @@ of sites that have been determined by you, this is not dangerous, and this is on
 
 * `pkg install git`
 
-* `git clone https://github.com/CharlieTheHack1/ADXdefacer`
+* `git clone https://github.com/Codie-yash/CY-Defacer`
 
-* `cd ADXdefacer`
+* `cd CY-Defacer`
 
-* `python2 adx.py`
+* `python2 cyd.py`
 
 # Thanks For Using Our Script !
