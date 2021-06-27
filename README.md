@@ -4,8 +4,6 @@
 AOXdeface is a tool for defacing dozens or hundreds of sites at once,depending on the number
 of sites that have been determined by you, this is not dangerous, and this is only the file upload method<br>
 
-![logo](image.)
-
 **how to install and usage:**
 
 **Termux:**
