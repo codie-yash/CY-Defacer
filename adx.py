@@ -9,11 +9,11 @@ except ImportError:
 
 banner = """
 
- █████╗ ██╗  ██╗██████╗  Author : Charlie : The Hacker
+ █████╗ ██╗  ██╗██████╗  Author : Codie Yash
 ██╔══██╗╚██╗██╔╝██╔══██╗ Credit : Ranginang67
-███████║ ╚███╔╝ ██║  ██║ Tools  : ADX Defacer V1.0
-██╔══██║ ██╔██╗ ██║  ██║ Github : CharlieTheHack1
-██║  ██║██╔╝ ██╗██████╔╝ youtube : Charlie : The Hacker
+███████║ ╚███╔╝ ██║  ██║ Tools  : CY Defacer V1.0
+██╔══██║ ██╔██╗ ██║  ██║ Github : Codie Yash & Genixcyber
+██║  ██║██╔╝ ██╗██████╔╝ youtube : Genixcyber
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ 
 """
 
